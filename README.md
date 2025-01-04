@@ -1,7 +1,7 @@
 # Venture Capital Unicorns Analytics
 *Personal project to explore Tableau*
 ## Project Description
-The " Venture Capital Unicorns Analytics: Visualizing Venture Capital Unicorns" project is an interactive visualization tool built using Python, Tableau, and Jupyter Notebook. This project aims to provide a comprehensive and visually engaging overview of unicorn startups, which are privately held companies valued at over $1 billion.
+The "Venture Capital Unicorns Analytics: Visualizing Venture Capital Unicorns" project is an interactive visualization tool built using Python, Tableau, and Jupyter Notebook. This project aims to provide a comprehensive and visually engaging overview of unicorn startups, which are privately held companies valued at over $1 billion.
 
 Using Python, the project data collected by Kaggle. The data is then cleaned, standardized, and transformed into a format suitable for analysis. Jupyter Notebook is utilized to perform exploratory data analysis, create statistical models, and generate insights.
 
