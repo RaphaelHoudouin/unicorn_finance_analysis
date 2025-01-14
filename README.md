@@ -10,7 +10,7 @@ The Venture Capital Unicorns Analytics project is an interactive visualization t
 - Tableau
 
 ## Data Source
-Data from https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups
+Data from https://www.kaggle.com/datasets/ramjasmaurya/unicorn-startups.
 
 ## License
 
@@ -22,8 +22,6 @@ Distributed under the GNU General Public License (GPL). See LICENSE for more inf
 - **Kaggle**: For accessing diverse datasets to power machine learning projects.
 
 ## Contact
-
-For any questions or feedback, please contact the project maintainer: **RaphaelHoudouin**.  
-GitHub: [RaphaelHoudouin](https://github.com/RaphaelHoudouin).
-
+For any questions or feedback, please contact the project maintainer: **raphaelhoudouin**.  
+GitHub: [raphaelhoudouin](https://github.com/raphaelhoudouin).
 
